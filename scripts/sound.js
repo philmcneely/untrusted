@@ -61,7 +61,7 @@ function Sound(source) {
             url: "https://www.facebook.com/MicAndAlan"
         },
         'Death Destroyer': {
-            path: "music/BLEO_-_02_-_Death_Destroyer_Radio_Edit_feat_Rhinostrich.mp3",
+            path: "music/BLEO_-_04_-_Death_Destroyer_Radio_Edit_feat_Rhinostrich.mp3",
             artist: "BLEO feat Rhinostrich",
             title: "Death Destroyer (Radio Edit)",
             url: "http://bleo.dummydrome.com/"
